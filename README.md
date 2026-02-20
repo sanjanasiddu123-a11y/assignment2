@@ -1,18 +1,39 @@
-# HTML Authentication Assignment
+# HTML Authentication POC
 
-This project is created as part of my lab assignment.
+## Description
+This project contains 5 HTML pages that simulate a basic authentication flow.
 
-It contains 5 HTML pages:
+Only HTML is used as per the assignment instructions.
+No CSS or JavaScript is used.
+
+## Pages Created
 - login.html
 - register.html
 - forgot-password.html
 - reset-password.html
 - dashboard.html
 
-All pages are connected using anchor tags for proper redirection.
+## Navigation Flow
 
-No CSS or JavaScript is used as instructed.
+Login Page:
+- Link to Register page
+- Link to Forgot Password page
+- On submit → Dashboard
 
-To run the project:
-Open login.html in a browser
-or use localhost if using XAMPP.
+Register Page:
+- Link to Login page
+
+Forgot Password Page:
+- On submit → Reset Password page
+
+Reset Password Page:
+- On submit → Login page
+
+Dashboard Page:
+- Logout link → Login page
+
+## How to Run
+Open login.html in browser
+OR
+Run using:
+http://localhost/folder-name/login.html
