@@ -5,7 +5,7 @@ The project demonstrates the user authentication flow including login, registrat
 
 The aim of this project is to create a **clean and responsive authentication layout** using Bootstrap components.
 
----
+--
 
 ## 📌 Project Overview
 
