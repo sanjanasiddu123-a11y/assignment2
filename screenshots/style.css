@@ -1,0 +1,36 @@
+/* Google Font */
+body{
+font-family:'Poppins',sans-serif;
+background: linear-gradient(to right,#667eea,#764ba2);
+min-height:100vh;
+}
+
+/* Card Styling */
+.card{
+border-radius:12px;
+box-shadow:0 6px 20px rgba(0,0,0,0.2);
+}
+
+/* Button Hover Effect */
+.btn{
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.05);
+}
+
+/* Links */
+a{
+text-decoration:none;
+font-weight:500;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+/* Navbar */
+.navbar{
+box-shadow:0 2px 10px rgba(0,0,0,0.2);
+}
