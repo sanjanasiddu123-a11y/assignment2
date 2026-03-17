@@ -1,39 +1,30 @@
-# Authentication System UI
+# 🔐 Authentication System UI
 
-This project is a simple **Authentication System Interface** developed using **HTML, CSS, and Bootstrap 5**.
-It demonstrates how authentication pages in a web application are structured and styled using responsive design.
+This project is a responsive **Authentication System Interface** built using **HTML, CSS, and Bootstrap 5**.
 
-The project includes multiple pages that simulate a typical login workflow used in many modern web applications.
-
----
-
-# Project Pages
-
-The application contains the following pages:
-
-* Login Page
-* Registration Page
-* Forgot Password Page
-* Reset Password Page
-* Dashboard Page
-
-Each page is designed with a clean interface using **Bootstrap components and custom CSS styling**.
+It demonstrates a complete user authentication flow including login, registration, password recovery, and dashboard access.
 
 ---
 
-# Technologies Used
+# 📌 Project Pages
 
-The project was developed using the following technologies:
+* 🔑 Login Page
+* 📝 Register Page
+* 🔁 Forgot Password Page
+* 🔄 Reset Password Page
+* 📊 Dashboard Page
+
+---
+
+# 🛠️ Technologies Used
 
 * HTML5
 * CSS3
 * Bootstrap 5
 
-Bootstrap helps create responsive layouts and provides ready-to-use components such as forms, buttons, and navigation elements.
-
 ---
 
-# Project Structure
+# 📂 Project Structure
 
 ```
 assignment2
@@ -49,8 +40,8 @@ assignment2
 └── screenshots
     ├── login.png
     ├── register.png
-    ├── forgot-password.png
-    ├── reset-password.png
+    ├── forgot password.png
+    ├── reset passwod.png
     └── dashboard.png
 ```
 
@@ -60,57 +51,49 @@ assignment2
 
 ## 🔑 Login Page
 
-![Login](login.png)
+![Login](screenshots/login.png)
 
 ---
 
 ## 📝 Register Page
 
-![Register](register.png)
+![Register](screenshots/register.png)
 
 ---
 
 ## 🔁 Forgot Password Page
 
-![Forgot](forgot%20password.png)
+![Forgot](screenshots/forgot%20password.png)
 
 ---
 
 ## 🔄 Reset Password Page
 
-![Reset](reset%20passwod.png)
+![Reset](screenshots/reset%20passwod.png)
 
 ---
 
 ## 📊 Dashboard Page
 
-![Dashboard](dashboard.png)
-
-
----
-
-# Application Flow
-
-1. Users enter their credentials on the **Login Page**.
-2. If the user does not have an account, they can navigate to the **Register Page**.
-3. If the password is forgotten, the user can access the **Forgot Password Page**.
-4. The user can update the password on the **Reset Password Page**.
-5. After logging in successfully, the user is redirected to the **Dashboard Page**.
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
-# Purpose of the Project
+# 🔄 Application Flow
 
-This project was created as part of a **Frontend Development Assignment** to demonstrate:
-
-* Multi-page authentication UI design
-* Bootstrap integration
-* Responsive web page layout
-* Basic navigation flow between pages
+1. User logs in via Login Page
+2. New users can register
+3. Forgot Password helps recover account
+4. Reset Password updates credentials
+5. Dashboard is shown after login
 
 ---
 
-# Author
+# 🎯 Purpose
 
-Frontend Assignment
-Full Stack Java Development Program
+* Practice Bootstrap integration
+* Build responsive UI
+* Understand authentication flow
+
+---
+
