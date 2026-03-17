@@ -56,35 +56,36 @@ assignment2
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
-## Login Page
+## 🔑 Login Page
 
-![Login Page](screenshots/login.png)
-
----
-
-## Register Page
-
-![Register Page](screenshots/register.png)
+![Login](login.png)
 
 ---
 
-## Forgot Password Page
+## 📝 Register Page
 
-![Forgot Password Page](screenshots/forgot-password.png)
-
----
-
-## Reset Password Page
-
-![Reset Password Page](screenshots/reset-password.png)
+![Register](register.png)
 
 ---
 
-## Dashboard Page
+## 🔁 Forgot Password Page
 
-![Dashboard Page](screenshots/dashboard.png)
+![Forgot](forgot%20password.png)
+
+---
+
+## 🔄 Reset Password Page
+
+![Reset](reset%20passwod.png)
+
+---
+
+## 📊 Dashboard Page
+
+![Dashboard](dashboard.png)
+
 
 ---
 
