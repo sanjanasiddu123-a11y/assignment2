@@ -98,5 +98,3 @@ assignment2
 * Build responsive authentication layouts
 
 ---
-
-# 👨‍💻 Author
