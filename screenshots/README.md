@@ -1,21 +1,20 @@
 # 🔐 Authentication System UI
 
 This project is a simple and responsive **Authentication System Interface** built using **HTML, CSS, and Bootstrap 5**.
-It demonstrates the design and flow of user authentication pages commonly used in modern web applications.
+
+It demonstrates a complete authentication flow including login, registration, password recovery, and dashboard navigation.
 
 ---
 
 # 📌 Project Overview
 
-The project includes multiple pages that simulate a complete authentication workflow:
+The project includes the following pages:
 
 * 🔑 Login Page
 * 📝 Registration Page
 * 🔁 Forgot Password Page
 * 🔄 Reset Password Page
 * 📊 Dashboard Page
-
-Each page is styled using **Bootstrap components** and enhanced with custom CSS for better UI.
 
 ---
 
@@ -24,8 +23,6 @@ Each page is styled using **Bootstrap components** and enhanced with custom CSS 
 * HTML5
 * CSS3
 * Bootstrap 5
-
-Bootstrap is used to create responsive layouts and improve UI consistency across all pages.
 
 ---
 
@@ -45,8 +42,8 @@ assignment2
 └── screenshots
     ├── login.png
     ├── register.png
-    ├── forgot-password.png
-    ├── reset-password.png
+    ├── forgot password.png
+    ├── reset passwod.png
     └── dashboard.png
 ```
 
@@ -56,25 +53,25 @@ assignment2
 
 ## 🔑 Login Page
 
-![Login Page](screenshots/login.png)
+![Login](screenshots/login.png)
 
 ---
 
 ## 📝 Register Page
 
-![Register Page](screenshots/register.png)
+![Register](screenshots/register.png)
 
 ---
 
 ## 🔁 Forgot Password Page
 
-![Forgot Password](screenshots/forgot-password.png)
+![Forgot](screenshots/forgot password.png)
 
 ---
 
 ## 🔄 Reset Password Page
 
-![Reset Password](screenshots/reset-password.png)
+![Reset](screenshots/reset passwod.png)
 
 ---
 
@@ -86,10 +83,22 @@ assignment2
 
 # 🔄 Application Flow
 
-1. User logs in through the **Login Page**
-2. New users can register via the **Register Page**
-3. If password is forgotten, user goes to **Forgot Password Page**
-4. Password is updated using the **Reset Password Page**
-5. After login, user is redirected to the **Dashboard**
+1. User logs in through the Login Page
+2. New users register using the Register Page
+3. Forgot Password allows password recovery
+4. Reset Password updates credentials
+5. Dashboard is shown after successful login
 
 ---
+
+# 🎯 Purpose
+
+* Learn multi-page UI design
+* Use Bootstrap effectively
+* Build responsive authentication layouts
+
+---
+
+# 👨‍💻 Author
+
+Frontend Development Assignment
