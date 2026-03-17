@@ -65,13 +65,13 @@ assignment2
 
 ## 🔁 Forgot Password Page
 
-![Forgot](forgot password.png)
+![Forgot](forgot%20password.png)
 
 ---
 
 ## 🔄 Reset Password Page
 
-![Reset](reset passwod.png)
+![Reset](reset%20passwod.png)
 
 ---
 
@@ -100,5 +100,3 @@ assignment2
 ---
 
 # 👨‍💻 Author
-
-Frontend Development Assignment
