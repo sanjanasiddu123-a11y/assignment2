@@ -53,31 +53,31 @@ assignment2
 
 ## 🔑 Login Page
 
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ---
 
 ## 📝 Register Page
 
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ---
 
 ## 🔁 Forgot Password Page
 
-![Forgot](screenshots/forgot password.png)
+![Forgot](forgot password.png)
 
 ---
 
 ## 🔄 Reset Password Page
 
-![Reset](screenshots/reset passwod.png)
+![Reset](reset passwod.png)
 
 ---
 
 ## 📊 Dashboard Page
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
